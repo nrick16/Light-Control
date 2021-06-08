@@ -1,4 +1,5 @@
 # Light-Control
+Protótipo de sistema para gerenciamento de solicitações de clientes
 
 # Login Page
 ![image](https://user-images.githubusercontent.com/67766992/120318923-d1862d00-c2b6-11eb-98b0-8214f0689c85.png)
